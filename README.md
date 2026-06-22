@@ -3,8 +3,15 @@ A localized, offline study environment featuring an interactive glassmorphism UI
 
 ## 🖥️ Interface & Visuals
 <img width="1919" height="1076" alt="Demo_image" src="https://github.com/user-attachments/assets/3b041b82-a946-4fbe-af76-6e18bbe28582" />
+
+
 ### 🌊 Interactive Fluid Motion & PDF Shredding
-https://github.com/user-attachments/assets/b48f1691-f8b8-4c79-9973-f040f519bdab
+
+
+
+https://github.com/user-attachments/assets/6c32367d-5ef2-4a5b-b00c-e96088fe3b3a
+
+
 
 ### Day & Night Celestial Cycle
 The environment automatically syncs with your system clock, transitioning from a warm neon sun during the day to an icy moon at night.
